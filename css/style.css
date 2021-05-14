@@ -11,6 +11,20 @@
 *	Edit this section
 *
 * ======================================================= */
+.backgroundGradient {
+  background: linear-gradient(to top, white, #0099FF);
+  color: grey;
+  text-align: center;
+
+}
+.backgroundGradient2 {
+  background: linear-gradient(to bottom, white, #ffde22);
+  color: grey;
+  text-align: center;
+}
+.lighterColor1 {
+  background: white;
+}
 body {
   font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.6;
